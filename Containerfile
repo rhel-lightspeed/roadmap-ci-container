@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10-minimal:10.0-1755721767
+FROM registry.access.redhat.com/ubi10-minimal:10.1-1774545417
 
 ARG UID=1001
 
