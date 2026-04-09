@@ -1,9 +1,10 @@
 aiohttp
+aiokafka
 app-common-python
 asgi-correlation-id
 ddtrace
 faker
-fastapi[standard]
+fastapi[standard-no-fastapi-cloud-cli]
 graphviz
 greenlet
 pre-commit
